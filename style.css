@@ -173,7 +173,7 @@ color:#fff;
 .photos .photo_element{
     float: left;
     width: 25%;
-    padding: 200px;
+    padding: 10px;
 }
 
 .photos .photo_element img{
