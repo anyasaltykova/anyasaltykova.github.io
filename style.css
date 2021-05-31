@@ -117,7 +117,7 @@ div{
 }
 .about .tradicii_about .tra_about{
     float:left;
-    width: 450px;
+    width: 400px;
     background-color:rgba(253, 68, 1, 0.727);
     margin:20px ;
     text-align: center;
@@ -155,7 +155,7 @@ color:#fff;
 }
 .product .product_element img{
     width: 100%;
-    height: 210px;
+    height: 220px;
 }
 
 .product .product_element .name{
@@ -178,7 +178,7 @@ color:#fff;
 
 .photos .photo_element img{
     width: 100%;
-    height: 210px;
+    height: 220px;
 }
 
 .contact_form .map,.contact_form  .form{
